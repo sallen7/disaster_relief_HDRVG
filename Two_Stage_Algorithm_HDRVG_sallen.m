@@ -1,4 +1,4 @@
-%%%%%%Two Stage Vehicle Routing Problem Algorithm for HDRVG%%%%%%%%%^M
+%%%%%%Two Stage Vehicle Routing Problem Algorithm for HDRVG%%%%%%%%%
 
 %%%Author: Stephanie Allen
 % Last Updated: 5/9/2017 
